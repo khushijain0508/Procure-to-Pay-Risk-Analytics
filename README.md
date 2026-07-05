@@ -8,11 +8,6 @@ The objective of this project was to replicate a real-world consulting engagemen
 
 ---
 
-<img width="516" height="398" alt="Screenshot 2026-07-05 183709" src="https://github.com/user-attachments/assets/64ec644e-8cf0-4ccf-87c0-59c9b0566aee" />
-<img width="518" height="398" alt="Screenshot 2026-07-05 183048" src="https://github.com/user-attachments/assets/12a23be2-7fad-463e-985c-e001a2253516" />
-
-(Additional dashboard screenshots for all six scenarios are available in the Screenshots/ folder.)
-
 
 ## Project Workflow
 
@@ -71,6 +66,8 @@ Key Analysis:
 - Procurement trends
 - Vendor drill-down
 
+<img width="518" height="398" alt="Screenshot 2026-07-05 183048" src="https://github.com/user-attachments/assets/12a23be2-7fad-463e-985c-e001a2253516" />
+
 ---
 
 ## 2. Purchase Order Tolerance Analysis
@@ -87,6 +84,9 @@ Key Analysis:
 - Tolerance profiles
 - Financial impact
 
+<img width="492" height="399" alt="PO Tolerance Dashboard" src="https://github.com/user-attachments/assets/7c43793a-7d90-493c-b1e9-dfa9626692ff" />
+
+
 ---
 
 ## 3. Multiple Payment Terms
@@ -98,6 +98,9 @@ Key Analysis:
 - Financial exposure
 - Exception distribution
 - Vendor-level drillthrough
+
+<img width="515" height="398" alt="Multiple Payment Terms Dashboard" src="https://github.com/user-attachments/assets/0f55b95e-322a-49ad-8de5-81729205ef75" />
+
 
 ---
 
@@ -116,6 +119,9 @@ Key Analysis:
 - PAN/GST validation
 - Vendor master health indicators
 
+<img width="516" height="397" alt="Vendor Master Check Dashboard" src="https://github.com/user-attachments/assets/b83c523b-9c68-400d-8962-fa5bea0cfc67" />
+
+
 ---
 
 ## 5. Duplicate Payment Detection
@@ -131,6 +137,9 @@ Key Analysis:
 - Vendor-wise impact
 - Invoice-level drillthrough
 - Financial trend
+
+<img width="515" height="398" alt="Duplicate Payment Risks Dashboard" src="https://github.com/user-attachments/assets/688ee95c-dd81-42ac-9fed-4411319c8a5a" />
+
 
 ---
 
@@ -153,6 +162,8 @@ Key Analysis:
 - Financial impact
 - Vendor-wise exposure
 - Quantity comparison
+
+<img width="516" height="398" alt="Screenshot 2026-07-05 183709" src="https://github.com/user-attachments/assets/64ec644e-8cf0-4ccf-87c0-59c9b0566aee" />
 
 ---
 
