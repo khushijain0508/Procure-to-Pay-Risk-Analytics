@@ -9,6 +9,7 @@ The objective of this project was to replicate a real-world consulting engagemen
 ---
 
 <img width="516" height="398" alt="Screenshot 2026-07-05 183709" src="https://github.com/user-attachments/assets/64ec644e-8cf0-4ccf-87c0-59c9b0566aee" />
+<img width="518" height="398" alt="Screenshot 2026-07-05 183048" src="https://github.com/user-attachments/assets/12a23be2-7fad-463e-985c-e001a2253516" />
 
 (Additional dashboard screenshots for all six scenarios are available in the Screenshots/ folder.)
 
@@ -196,9 +197,12 @@ This documentation served as the blueprint for dataset creation and dashboard de
 
 # Repository Structure
 
+## Repository Structure
+
+```text
 P2P-Risk-Analytics-Dashboard
 │
-│── README.md
+├── README.md
 │
 ├── Documentation
 │   ├── Internship P2P Project Report.pdf
@@ -208,19 +212,19 @@ P2P-Risk-Analytics-Dashboard
 │   └── Scenario Dashboard.pbix
 │
 ├── Datasets
-│   ├── P2P Scenario 1- Price Variance Dataset.xlsx
+│   ├── P2P Scenario 1 - Price Variance Dataset.xlsx
 │   ├── P2P Scenario 2 - PO Tolerance Dataset.xlsx
 │   ├── P2P Scenario 3 - Multiple Payment Terms Dataset.xlsx
 │   ├── P2P Scenario 4 - Vendor Master Check Dataset.xlsx
 │   ├── P2P Scenario 5 - Duplicate Payment Risk Dataset.xlsx
-│   └── P2P Scenario 6 - 3 Way Match Complaince Dataset.xlsx
+│   └── P2P Scenario 6 - 3 Way Match Compliance Dataset.xlsx
 │
 ├── Pivot Table Analysis
 │   ├── P2P Scenario 1 (Price Variance) Pivot Table Analysis.xlsx
-│   ├── P2P Scenario 2 (PO Tolerance) Pivot Table Analysis .xlsx
+│   ├── P2P Scenario 2 (PO Tolerance) Pivot Table Analysis.xlsx
 │   ├── P2P Scenario 3 (Multiple Payment Terms) Pivot Table Analysis.xlsx
 │   ├── P2P Scenario 4 (Vendor Master Check) Pivot Table Analysis.xlsx
-│   ├── P2P Scenario 5 (Multiple Payment Risk) Pivot Table Analysis.xlsx
+│   ├── P2P Scenario 5 (Duplicate Payment Risk) Pivot Table Analysis.xlsx
 │   └── P2P Scenario 6 (3 Way Match Compliance) Pivot Table Analysis.xlsx
 │
 ├── Screenshots
@@ -234,10 +238,8 @@ P2P-Risk-Analytics-Dashboard
 │   └── Drillthrough Example.png
 │
 └── Presentation
-    ├── Procurement to pay process.pptx
-
----
-
+    └── Procurement to Pay Process.pptx
+```
 # Key Learning Outcomes
 
 Through this project, I gained practical experience in:
